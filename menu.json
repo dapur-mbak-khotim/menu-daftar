@@ -1,0 +1,37 @@
+[
+  {
+    "image": "13k.jpg",
+    "price": "Rp13.000",
+    "items": "nasi kuning/putih,mie/urap-urap,sambel goreng,ayam goreng/panggang/laos/kentucky"
+  },
+  {
+    "image": "15k.jpg",
+    "price": "Rp15.000",
+    "items": "Nasi Kuning/Putih,mie/urap-urap,sambel goreng,ayam goreng/panggang/laos/kentucky, kerupuk udang"
+  },
+  {
+    "image": "18k.jpg",
+    "price": "Rp18.000",
+    "items": "Nasi Kuning/Putih,mie/urap-urap,sambel goreng,ayam goreng/panggang/laos(agak besar),nugget, kerupuk udang"
+  },
+  {
+    "image": "20k.jpg",
+    "price": "Rp20.000",
+    "items": "Nasi Kuning/Putih,mie/urap-urap,sambel goreng,ayam goreng/panggang/laos(agak besar),nugget/telur ceplok, kerupuk udang"
+  },
+  {
+    "image": "25k.jpg",
+    "price": "Rp25.000",
+    "items": "Nasi Kuning/Putih,mie/urap-urap,sambel goreng,ayam goreng/panggang/laos(1/4),telur ceplok/telur utuh , kerupuk udang"
+  },
+  {
+    "image": "27k.jpg",
+    "price": "Rp27.000",
+    "items": "Nasi Kuning/Putih,mie/urap-urap,sambel goreng,ayam goreng/panggang/laos(1/4),telur asin, kerupuk udang"
+  },
+  {
+    "image": "geprek 10k.jpg",
+    "price": "Rp10.000",
+    "items": "Ayam Geprek, Sambal, Nasi Putih,lalapan"
+  }
+]
